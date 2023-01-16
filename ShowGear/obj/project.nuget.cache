@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wz7Fy9KfUbOOmT7V6wN8PuToxxO21jjWV4cnVBNwcBzNPcHrSmDs+jL9QCDzNYkDKbxV5/icExRzEyujoqVspg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sammy\\Downloads\\ShowGear-main\\ShowGear-main\\ShowGear\\ShowGear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sammy\\.nuget\\packages\\dalamudpackager\\2.1.10\\dalamudpackager.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
